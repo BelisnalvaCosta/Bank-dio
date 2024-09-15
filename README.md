@@ -1,6 +1,6 @@
-Projeto feito na IDE Visual Studio Code [1^]
+Projeto feito na IDE Visual Studio Code [^1].
  
-Projeto desenvolvido com conceitos básicos de typescript, acrescentei HTML, Javascript e CSS para uma interface gráfica sisples para a interação do usuário.
+Projeto desenvolvido com conceitos básicos de typescript, acrescentei HTML, Javascript e CSS para uma interface gráfica simples para a interação do usuário.
 pretendo melhorar mais o código ...
 
 Como rodar o projeto
@@ -25,4 +25,4 @@ Escrever o teste unitário
 Refatorar a rota para deletar usuários
 Escrever os testes unitários necessários
 
-[^1] Neste projeto implementei os tópicos acima citados e acrescentei uma interface gráfica simples. Desafio de Projeto autora: Nathally Souza (DIO.me)
+[^1]: Neste projeto implementei os tópicos acima citados e acrescentei uma interface gráfica simples. Desafio de Projeto autora: Nathally Souza (DIO.me)
