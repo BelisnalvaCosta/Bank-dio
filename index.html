@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerenciamento de Usuários</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Gerenciamento de Usuários</h1>
+
+    <form id="userForm">
+      <input type="text" id="name" placeholder="Nome" required>
+      <input type="email" id="email" placeholder="Email" required>
+      <button type="submit">Criar Usuário</button>
+    </form>
+
+    <div id="userList"></div>
+
+    <form id="deleteForm">
+      <input type="email" id="deleteEmail" placeholder="Email para deletar" required>
+      <button type="submit">Deletar Usuário</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
